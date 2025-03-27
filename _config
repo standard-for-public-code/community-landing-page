@@ -1,0 +1,10 @@
+title: Community Page - Standard for Public Code
+
+remote_theme: standard-for-public-code/jekyll-theme
+
+toc: true
+
+hide_foundation_footer: true
+hide_foundation_footer_logo: true
+
+include_badges: false
