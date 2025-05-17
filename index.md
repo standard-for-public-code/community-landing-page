@@ -32,8 +32,6 @@ Last Wednesday of the month 13:00 - 15:00 (CET/CEST).
 
 Work is coordinated on the call, by working on [issues and pull requests](https://github.com/standard-for-public-code/standard-for-public-code).
 
-<!--You can also [subscribe to the calendar](#).-->
-
 ## Resources
 
 For information about the governance for the Standard, please check the [GOVERNANCE.md file in the Github repository](https://github.com/standard-for-public-code/standard-for-public-code/blob/develop/GOVERNANCE.md).
