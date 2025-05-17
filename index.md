@@ -16,7 +16,7 @@ Feel free to [create an issue](https://github.com/standard-for-public-code/stand
 
 We have two regular calls. 
 
-Both calls take place [Jit.si/standard-for-public-code](https://meet.jit.si/standard-for-public-code)
+Both calls take place on [`meet.jit.si/standard-for-public-code`](https://meet.jit.si/standard-for-public-code).
 
 ### Community call
 
